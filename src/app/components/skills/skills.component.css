@@ -1,0 +1,10 @@
+div{
+    background-color: #31d87f;
+    padding-left: 10px;
+    padding-right: 10px;
+    justify-content: center;
+}
+h1{
+    display: inline;
+    padding-left: 20px;
+}
